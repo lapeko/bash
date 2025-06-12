@@ -1,0 +1,25 @@
+🟢 Block 1 — Conditions (if)
+📌 Compare two strings for equality and print "equal" or "not equal".
+📌 Check if the file /etc/passwd exists. If it does, print "OK".
+📌 Write an if-else-if structure:
+if number < 0 → "Negative"
+if number = 0 → "Zero"
+if number > 0 → "Positive"
+
+🟡 Block 2 — for loop
+🔁 Create a loop that prints the multiplication table for 5.
+🔁 For all .txt files in the current folder, print their names.
+🔁 Print only even numbers from 2 to 20.
+
+🔵 Block 3 — while loop
+⏳ Write a script that keeps asking “Enter exit to quit” and only stops if the user types exit.
+⏳ Use a while loop to calculate the factorial of n=5.
+⏳ Ask the user to input a number, and continue until the number is greater than 10.
+⏳ Count how many lines are in the file file.txt using while read.
+
+🟣 Block 4 — case statement
+🔀 Accept an argument (start, stop, restart) and print the appropriate message.
+🔀 Write a script that, based on the day of the week (Mon, Tue, …), prints "Work" or "Weekend".
+🔀 Read a number from the user (1-5) and print it as a word (one, two, …).
+🔀 Based on a given file extension (.txt, .sh, .md), print a description of the file type.
+🔀 When the user inputs y or n, respond appropriately; otherwise, print "Invalid".
