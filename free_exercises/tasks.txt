@@ -9,7 +9,6 @@ if number > 0 → "Positive"
 🟡 Block 2 — for loop
 🔁 Create a loop that prints the multiplication table for 5.
 🔁 For all .txt files in the current folder, print their names.
-🔁 Print only even numbers from 2 to 20.
 
 🔵 Block 3 — while loop
 ⏳ Write a script that keeps asking “Enter exit to quit” and only stops if the user types exit.
