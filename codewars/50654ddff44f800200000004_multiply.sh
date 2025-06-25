@@ -1,2 +1,2 @@
-#!/usr/bin/env sh -e
-echo $( expr $1 * $2 )
+#!/usr/bin/env sh
+expr "$1" \* "$2"
