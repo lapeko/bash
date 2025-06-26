@@ -1,0 +1,45 @@
+🟢 Beginner (1–10)
+Print the first column of each line from a file.
+Print lines that contain the word error.
+Count the number of lines in a file.
+Count how many fields (words) are on each line.
+Print only lines that contain exactly 3 fields.
+Print the second field of each line.
+Print the entire line only if it starts with the letter "A".
+Print the line number alongside each line.
+Skip the first line (header) and print the rest.
+Print lines longer than 30 characters.
+
+🟡 Intermediate (11–25)
+Print lines where the second field is greater than 100.
+Print only the last field of each line.
+Print all lines except those containing the word debug.
+Swap the first and second fields in each line.
+Count the total number of words in the entire file.
+Count how many times each word appears (word frequency).
+Replace all occurrences of the word foo with bar.
+Show the length of each line.
+Show the average value of the 3rd field (assume numeric).
+Print the second-to-last word on each line.
+Print only lines where the number of fields is odd.
+Print lines where any field is greater than 500.
+Print the number of lines that contain the word FAIL.
+Print the line if the first field matches the previous line’s first field.
+Print the number of fields per line and then the line itself.
+
+🔵 Advanced (26–40)
+Group and count how many lines start with each letter (case-sensitive).
+Find the top 5 most frequent words in the file.
+Print all lines grouped by the first field, summing the second field.
+Print the running total of the second field across lines.
+Format output into aligned columns (like a table).
+Trim the first and last character from each line.
+Convert comma-separated values (CSV) into JSON objects.
+Count how many unique values are in the second field.
+Extract all IP addresses from a log file.
+Print the longest line in the file.
+Print only lines that contain duplicate values in the first field.
+Print every 3rd line of the file.
+Sort lines by the second field (you may pipe to sort).
+Simulate a histogram of field values using * characters.
+Extract and reformat date strings in the format YYYY-MM-DD into DD/MM/YYYY.
